@@ -1,20 +1,13 @@
-# Testing Three Coping Strategies for Time Pressure in Categorizations and Similarity Judgments
+# Disentangling Perceptual and Process-Related Sources of Behavioral Variability in Categorization
 
 ### Contributing Authors
-Seitz, Florian I.; von Helversen, Bettina; Albrecht, Rebecca; Rieskamp, Joerg; Jarecki, Jana B.
-
-### Dates
-Data collection began in March 2019 (Studies 1 and 2) and ended in September 2022 (Study 3). Paper in press.
+Seitz, Florian I.; Jarecki, Jana B.; Rieskamp, Joerg; von Helversen, Bettina
 
 ### Abstract
-This article compares three psychological mechanisms to make multi-attribute inferences under time pressure in the domains of categorization and similarity judgments. Specifically, we test if people under time pressure attend to fewer object features (attention focus), if they respond less precisely (lower choice sensitivity), or if they simplify a psychological similarity function (simplified similarity). The simpler psychological similarity considers the number of matching features but ignores the actual feature value differences. We conducted three experiments (two of them preregistered) in which we manipulated time pressure: one was a categorization task, which was designed based on optimal experimental design principles, and the other two involved a similarity judgment task. Computational cognitive modeling following an exemplar-similarity framework showed that the behavior of most participants under time pressure is in line with a lower choice sensitivity, this means less precise response selection, especially when people make similarity judgments. We find that the variability of participants’ behavior increases with time pressure, to a point where participants are unlikely to make inferences anymore but instead start choosing readily available response options repeatedly. These findings are consistent with related research in other cognitive domains, such as risky choices, and add to growing evidence that time pressure and other forms of cognitive load do not necessarily alter core cognitive processes themselves but rather affect the precision of response selection.
+People often categorize the same object variably over time. Such intraindividual behavioral variability is difficult to identify because it can be confused with a bias and can originate in different categorization steps. The current work discusses possible sources of behavioral variability in categorization, focusing on perceptual and cognitive processes, and reports a simulation with a similarity-based categorization model to disentangle these sources. The simulation showed that noise during perceptual or cognitive processes led to considerable misestimations of a response determinism parameter. The category responses could not discriminate between the different forms of noise because different forms of noise led to similar response patterns. However, the continuous model predictions could identify the noise: Noisy feature perception led to variable predictions for central stimuli on the category boundary, noisy feature attention increased the prediction variability for stimuli differing from each category on another feature, and noisy similarity computation increased the variability for stimuli with moderate predictions. Measuring category beliefs in a continuous way (e.g., through category probability judgments) may therefore help to disentangle perceptual and process-related sources of behavioral variability. Ultimately, this can inform interventions aimed at improving human categorizations (e.g., diagnosis training) by indicating which steps of the categorization mechanism to target.
 
 ### Publication
-Seitz, von Helversen, Albrecht, Rieskamp, & Jarecki (in press)
+Seitz, Jarecki, Rieskamp, & von Helversen (in press)
 
 ### Funding
 This work was supported by the University of Basel.
-
-### Notes
-The reanalysis was conducted on data used in Will et al. (2015), Experiment 1, and originally reported in Milton et al. (2008), Experiment 5.
-
